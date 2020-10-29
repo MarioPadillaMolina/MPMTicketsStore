@@ -1,0 +1,21 @@
+.banner_part {
+    background: url(../img/bg.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.banner_part .single_banner_slider .banner_text p {
+    margin-bottom: 40px;
+}
+
+.frontpage {
+    margin-bottom: 20px;
+}
+
+.footer_part {
+    padding: 0;
+}
+
+.section_padding {
+    padding: 140px 0px 0px;
+}
